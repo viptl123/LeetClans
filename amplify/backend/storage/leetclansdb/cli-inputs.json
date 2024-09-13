@@ -1,0 +1,10 @@
+{
+  "resourceName": "leetclansdb",
+  "tableName": "users",
+  "partitionKey": {
+    "fieldName": "username",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
